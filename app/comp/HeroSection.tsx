@@ -28,7 +28,7 @@ const HeroSection = () => {
           <br></br>
           <div className="flex gap-[64px] items-center">
             <div className="font-jakarta font-medium text-[14px]">
-              Trusted by the world's biggest brands
+              Trusted by the worlds biggest brands
             </div>
             <div className="flex gap-[27px]">
               <Image src={AfterPayLogo} alt="logo" />
